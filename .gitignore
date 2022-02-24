@@ -1,2 +1,5 @@
 # Calendar
 *.ics
+
+# Git
+.history
